@@ -4,9 +4,11 @@ Simple demo to use module [styled-components](https://www.styled-components.com/
 
 ## Components
 
-- [ ] Component 1
-- [ ] Component 2
-- [ ] Component 3
+- [x] Button
+- [x] Link
+- [x] Wrapper
+- [x] Title
+- [x] Introduction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

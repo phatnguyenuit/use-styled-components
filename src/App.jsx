@@ -1,6 +1,6 @@
 import "./App.css";
 
-import { Button, ReversedButton, TomatoButton } from "./components/MyButton";
+import { Button, ReversedButton, TomatoButton } from "./components/Button";
 import { Container, Wrapper } from "./components/Wrapper";
 import { Introduction, Title } from "./components/Title";
 import { Link, StyledLink } from "./components/Link";
