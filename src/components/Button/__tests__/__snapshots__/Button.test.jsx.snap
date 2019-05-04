@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Buttons with \`react-test-renderer\` should render \`Button\` without error 1`] = `
+<button
+  className="sc-bdVaJa iQJFUl"
+>
+  Button
+</button>
+`;
+
+exports[`Test Buttons with \`react-test-renderer\` should render \`ReversedButton\` without error 1`] = `
+<button>
+  n
+  o
+  t
+  t
+  u
+  B
+</button>
+`;
+
+exports[`Test Buttons with \`react-test-renderer\` should render \`TomatoButton\` without error 1`] = `
+<button
+  className="sc-bdVaJa sc-bwzfXH jYytoe"
+>
+  Button
+</button>
+`;

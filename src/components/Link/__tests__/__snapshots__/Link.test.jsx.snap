@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test \`Links\` with \`react-test-renderer\` render \`Link\` without error 1`] = `
+<a
+  className="sc-bdVaJa bpBYMg"
+>
+  Link Text
+</a>
+`;
+
+exports[`Test \`Links\` with \`react-test-renderer\` render \`StyledLink\` without error 1`] = `
+<a
+  className="sc-bdVaJa sc-bwzfXH dsehKE"
+>
+  Styled Link
+</a>
+`;
