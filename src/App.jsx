@@ -1,10 +1,10 @@
-import "./App.css";
+import React, { Component } from "react";
 
 import { Button, ReversedButton, TomatoButton } from "./components/Button";
 import { Container, Wrapper } from "./components/Wrapper";
 import { Introduction, Title } from "./components/Title";
 import { Link, StyledLink } from "./components/Link";
-import React, { Component } from "react";
+import "./App.css";
 
 class App extends Component {
   render() {
@@ -30,7 +30,7 @@ class App extends Component {
           <Container>
             <Introduction>2.Links with Custom Component</Introduction>
             <Link href="/">
-              Unstyled, boring Link
+              Un-styled, boring Link
               <span role="img" aria-label="boring">
                 😒
               </span>
